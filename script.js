@@ -3,7 +3,7 @@
    ========================================== */
 
 const state = {
-  doiName: "Via",
+  doiName: "Sayangku",
   senderName: "aku",
   proposalText: "sebenernya aku udah lama banget nyimpen perasaan ini ke kamu, Devia... tiap hari ada kamu tuh bikin hari-hariku jauh lebih bahagia. jadi hari ini aku mau nanya langsung aja: <strong>Via, kamu mau gak jadi pacar aku?</strong>",
   praiseText: "jujur ya Via, dari pertama kenal kamu tuh aku udah kagum banget. kamu orangnya manis, lucu, terus senyum kamu selalu bisa bikin hari-hariku yang capek jadi seru lagi. makasih ya udah hadir dan nemenin aku.",
